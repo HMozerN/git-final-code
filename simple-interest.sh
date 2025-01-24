@@ -1,1 +1,1 @@
-git commit -m "Esse é um teste para vocÊ fazer"
+git commit -m "Esse é um teste para vocÊ fazer."
